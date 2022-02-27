@@ -1,16 +1,16 @@
-# harudiary!
+# -하루일기-
 
-2022-coala_proj
+- 자신을 끊임없이 탐구하고 기록해 보세요
+하루에 하나, 하루일기가 묻는 질문은 수많은 사람들에게 자신의 내면을 발견하고, 돌아보고, 스스로 답을 찾게하는 통로가 되어줍니다.
+나아가 스스로 성장할 수 있는 힘을 가지고 있습니다.
 
-## Getting Started
+-오늘의 감정을 기록해보세요.
+다양한 감정 스티커로 오늘 하루를 표현해보세요.
 
-This project is a starting point for a Flutter application.
+- 오늘의 질문에 답해보세요.
+매일 정해진 시간에 도착하는 질문을 통해 자신을 들여다보세요.
 
-A few resources to get you started if this is your first Flutter project:
+- 오늘을 기록해보세요.
+하루동안 있었던 일을 돌아보면서 다시 오지 않을 특별한 하루를 기록해보세요.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 하루일기와 함께 누군가에게 보여지는 내가 아닌 내면의 나와 소통을 통해 자신을 가꾸어보세요.
